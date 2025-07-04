@@ -3,19 +3,6 @@
 
 This project uses machine learning to predict the productivity of garment workers based on a variety of factory-related attributes. An XGBoost Regressor model is trained and optimized to understand the key factors that influence worker productivity.
 
------
-
-## Table of Contents
-
-  - [Dataset](https://www.google.com/search?q=%23dataset)
-  - [Project Workflow](https://www.google.com/search?q=%23project-workflow)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-  - [Exploratory Data Analysis (EDA)](https://www.google.com/search?q=%23exploratory-data-analysis-eda)
-  - [Model Training and Evaluation](https://www.google.com/search?q=%23model-training-and-evaluation)
-  - [Results](https://www.google.com/search?q=%23results)
-  - [Conclusion](https://www.google.com/search?q=%23conclusion)
-
------
 
 ## Dataset
 
